@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ShoppingCartTester
+comment0.text=\r\n\ A\ tester\ program\ for\ class\ ShoppingCart.\r\n\r\n\ //\ Step\ 1\:\ Enter\ your\ name\ and\ a\ date\r\n\ @author\:\ Felix\ Estay-Foix\ \ \r\n\ @version\:\ 9/15/2020\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
